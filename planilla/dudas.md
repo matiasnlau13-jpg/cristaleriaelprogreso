@@ -21,3 +21,9 @@
 14. "Pinza": ¿qué significa el número (19)?
 15. Copa Checo Flauta dice "c/22,0" (un solo c/). ¿Es corte caliente (c/c) o es el otro "c/"?
 16. Martini Champ dice "P.Alta": ¿pierna alta es lo mismo que estirada?
+
+## Foto 4 (Tarros y floreros, la hoja no tiene título)
+17. Tarro Claret: al final dice otro "B:55" además del B:120. ¿Qué es ese 55?
+18. Florero Lila "Chico" (en lápiz): ¿el otro Florero Lila (Diagonal) es el grande?
+19. Florero Lila "c/c Diagonal": ¿es corte caliente en diagonal? ¿Tiene altura?
+20. Florero 17x50 "2 cortes": ¿no lleva altura de corte caliente?
