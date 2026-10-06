@@ -9,7 +9,7 @@
 
 ## Foto 2 (Copas)
 6. "c/c" = corte caliente (respondido). Falta: ¿qué significa "c/" + número en Ceci Flauta (c/24) y Him-Chan Agua (c/15)? (En la foto 3 el c/c aparece como "Alt", así que el número sería la altura: confirmar.)
-7. "Renato" escrito en lápiz (Presidente, Him-Chan, Retro, Silvia) y entre comillas en Flavia: ¿qué significa?
+7. "Renato" escrito en lápiz (Presidente, Him-Chan, Retro, Silvia) y entre comillas en Flavia: ¿es cliente? (ver pregunta 37)
 8. Copa Prince Agua: el peso está sobrescrito, ¿es 220?
 9. Copa Chandón 2021: ¿las comillas abajo de "Pie London 98" quieren decir que también lleva pie London 98?
 10. Sin pierna indicada: Presidente, Clarito, Him-Chan, Premium Mediana, Premium Chica. ¿Estirada o pegada?
@@ -49,3 +49,6 @@
 34. Copa Vinarte: dice "P.Alta" y "P.Peg" a la vez. ¿Cómo es la pierna?
 35. Pie "Presi V.Tinto" (Vinarte): ¿entonces V.T = Vino Tinto y V.B = Vino Blanco? (pregunta 11)
 36. Sin pierna indicada: Premium Borgoña, Bordeau Agua, 2 Tiempo, Degustación. ¿Estirada o pegada?
+
+## Pendiente
+37. Pedir la lista de TODOS los clientes. Los nombres entre comillas o en lápiz a veces son clientes y a veces no.
