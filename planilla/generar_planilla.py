@@ -13,7 +13,8 @@ SALIDA = Path(__file__).with_name("planilla_piezas.xlsx")
 # Columnas de cada hoja. "P" = peso, "B" = B (como figura en el cuaderno).
 COLUMNAS = {
     "VASOS": ["Nombre", "Nombre entre comillas", "Altura", "Peso (P)", "Base (B)"],
-    "COPAS": ["Nombre", "Nombre entre comillas", "Pierna (estirada / pegada)", "Peso (P)", "Base (B)", "Pie"],
+    "COPAS": ["Nombre", "Nombre entre comillas", "Pierna (estirada / pegada)", "Medida (℅)", "Peso (P)",
+              "Base (B)", "Pie", "Nota en lápiz"],
     "FLORERO": ["Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
     "TULIPA": ["Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
     "PAMELA": ["Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
@@ -30,9 +31,26 @@ EXTRA = ["Sección del cuaderno", "Foto Nº", "Observaciones"]
 # Filas por hoja, en el mismo orden que COLUMNAS[hoja] + EXTRA.
 DATOS = {
     "COPAS": [
-        ["Copa Alaska", "", "", 320, 450, "", "Prensa", 1,
-         "En lápiz: \"Requem. 8\" y un \"300\" debajo del B:450 (¿B corregido a 300?)"],
-        ["Copa Milk Shake", "", "", 570, 250, "", "Prensa", 1, ""],
+        ["Copa Alaska", "", "", "", 320, 450, "", "Requem. 8", "Prensa", 1,
+         "Hay un \"300\" en lápiz debajo del B:450 (¿B corregido a 300?). ¿Qué es \"Requem. 8\"?"],
+        ["Copa Milk Shake", "", "", "", 570, 250, "", "", "Prensa", 1, ""],
+        ["Copa Romina Vino", "", "Pegada", "15,3", 200, 230, "Lorena V.B", "", "Copas", 2, ""],
+        ["Copa Presidente Champ", "", "", "", 180, 200, "", "Renato", "Copas", 2, ""],
+        ["Copa Clarito Inés De los Santos", "", "", "", 200, 230, "Presi V.T", "", "Copas", 2, ""],
+        ["Copa Prince Agua", "", "Pegada", "19,7", 220, 220, "London 98", "", "Copas", 2,
+         "El peso está remarcado/sobrescrito: confirmar que es 220"],
+        ["Copa Barón", "B", "Estirada", "", 250, 200, "London 98", "", "Copas", 2, ""],
+        ["Copa Chandón 2021", "", "Estirada", "", 230, 200, "London 98", "", "Copas", 2,
+         "El pie no está escrito: hay comillas (\") debajo de \"Pie London 98\" de la fila de arriba"],
+        ["Copa Magnífica", "", "Estirada", "", 160, 200, "Delise", "", "Copas", 2, ""],
+        ["Copa Venus Champ", "", "Estirada", "", 160, 220, "", "", "Copas", 2, ""],
+        ["Copa Flavia Champ", "Renato", "Estirada", "", 160, 220, "", "", "Copas", 2, ""],
+        ["Copa Ceci Flauta", "", "Estirada", "24", 170, 200, "Presi Agua", "", "Copas", 2, ""],
+        ["Copa Him-Chan Agua", "", "", "15", 150, 230, "Venus V.B", "Renato", "Copas", 2, ""],
+        ["Copa Retro", "", "Pegada", "", 180, 220, "Mod II Agua", "Renato", "Copas", 2, ""],
+        ["Copa Premium Mediana", "", "", "", 230, 220, "Mini Marisco", "", "Copas", 2, ""],
+        ["Copa Premium Chica", "", "", "", 220, 220, "Mod II Agua", "", "Copas", 2, ""],
+        ["Copa Silvia Agua", "", "Pegada", "", 180, 220, "Silvia Agua", "Renato", "Copas", 2, ""],
     ],
     "OTROS": [
         ["Plato", "Plato Pizza", "", 300, 500, "Prensa", 1, ""],
