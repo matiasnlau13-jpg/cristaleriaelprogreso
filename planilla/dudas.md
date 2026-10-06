@@ -8,9 +8,16 @@
 5. Plato, Faro, Filtro, Base Velador, Lupa, Vidrio, Baliza: ¿en qué categoría van? (hoy están en la pestaña PRENSA)
 
 ## Foto 2 (Copas)
-6. "c/c" = corte caliente (respondido). Falta: ¿qué significa "c/" + número en Ceci Flauta (c/24) y Him-Chan Agua (c/15)? ¿Y qué indica el número del c/c (15,3 / 19,7)?
+6. "c/c" = corte caliente (respondido). Falta: ¿qué significa "c/" + número en Ceci Flauta (c/24) y Him-Chan Agua (c/15)? (En la foto 3 el c/c aparece como "Alt", así que el número sería la altura: confirmar.)
 7. "Renato" escrito en lápiz (Presidente, Him-Chan, Retro, Silvia) y entre comillas en Flavia: ¿qué significa?
 8. Copa Prince Agua: el peso está sobrescrito, ¿es 220?
 9. Copa Chandón 2021: ¿las comillas abajo de "Pie London 98" quieren decir que también lleva pie London 98?
 10. Sin pierna indicada: Presidente, Clarito, Him-Chan, Premium Mediana, Premium Chica. ¿Estirada o pegada?
 11. Abreviaturas del pie: ¿qué significan V.B y V.T?
+
+## Foto 3 (Copas)
+12. Copa Hurricane: la pinza se lee "90" y las demás dicen 19. ¿Es 90 o 19?
+13. Copa Ani: el molde dice copa "G". ¿Es la letra G o el número 6?
+14. "Pinza": ¿qué significa el número (19)?
+15. Copa Checo Flauta dice "c/22,0" (un solo c/). ¿Es corte caliente (c/c) o es el otro "c/"?
+16. Martini Champ dice "P.Alta": ¿pierna alta es lo mismo que estirada?
