@@ -68,3 +68,12 @@
 47. ¿El "Bombe Gigante" (foto 6, hoy en OTROS) es un vaso como el Vaso Bombe?
 48. Vaso Temple dice "Maxi" al final: ¿qué es?
 49. "T. Largo" (Vaso Recto T. Largo) y "B-R" (Vaso Cónico B-R): ¿qué significan?
+
+## Foto 10 (sigue Vasos, sin título)
+50. Vaso Cónico B-R aparece en la foto 9 y otra vez acá con c/c 14,3. Abajo, en lápiz, hay otra versión con P:350 B:300. ¿Son dos versiones del mismo vaso?
+51. Tulipa Difusa, Violetero Faena y Tapa 995 están en la lista de vasos. Puse la Tulipa en TULIPA, la Tapa en TAPA y el Violetero en VASOS. ¿Está bien?
+52. Vaso Popo Gigante: el peso dice 116. ¿Es correcto?
+53. Vaso Whisky "C" Desfondado: el peso está sobrescrito, ¿es 260? ¿"Renato" va con este vaso?
+54. Vaso Petit: debajo del P:120 hay un "150" en lápiz. ¿El peso cambió a 150?
+55. Vaso Recto Whisky dice "c/14": ¿qué significa? (mismo "c/" que en las copas Ceci Flauta y Him-Chan)
+56. Vaso Nico Vino (P:280) y Vaso Nico "R" Vino (P:370, foto 8): ¿son dos vasos distintos?
