@@ -9,7 +9,7 @@
 
 ## Foto 2 (Copas)
 6. "c/c" = corte caliente (respondido). Falta: ¿qué significa "c/" + número en Ceci Flauta (c/24) y Him-Chan Agua (c/15)? (En la foto 3 el c/c aparece como "Alt", así que el número sería la altura: confirmar.)
-7. ~~"Renato": ¿qué significa?~~ Respondido: los nombres entre comillas o en lápiz son clientes.
+7. "Renato" escrito en lápiz (Presidente, Him-Chan, Retro, Silvia) y entre comillas en Flavia: ¿qué significa?
 8. Copa Prince Agua: el peso está sobrescrito, ¿es 220?
 9. Copa Chandón 2021: ¿las comillas abajo de "Pie London 98" quieren decir que también lleva pie London 98?
 10. Sin pierna indicada: Presidente, Clarito, Him-Chan, Premium Mediana, Premium Chica. ¿Estirada o pegada?
@@ -29,7 +29,7 @@
 20. Florero 17x50 "2 cortes": ¿no lleva altura de corte caliente?
 
 ## Foto 5 (Floreros, tulipas, pamelas, botellones; la hoja no tiene título)
-21. Florero Mod 11: abajo dice `corte c/24cm "Cenatiempo"`. ¿Qué es ese corte de 24 cm? ¿El cliente se escribe "Cenatiempo"?
+21. Florero Mod 11: abajo dice `corte c/24cm "Cenatiempo"`. ¿Qué es ese corte de 24 cm y cómo se escribe "Cenatiempo"?
 22. Pamela x21 / x16 / x11 / x10: ¿el número es el diámetro (en cm)?
 23. Pamela x11: no tiene altura de corte caliente. ¿Está bien?
 
@@ -42,14 +42,10 @@
 29. Jarra Carafe: la base dice B:55 (muy baja comparada con el resto). ¿Es correcto? (Igual que el "B:55" del Tarro Claret.)
 
 ## Foto 7 (Copas)
-30. Copa Premium Borgoña: abajo hay un renglón con comillas de repetición, "R" y "C. Ruiz". ¿Es la versión "R" que se hace para el cliente C. Ruiz?
+30. Copa Premium Borgoña: abajo hay un renglón con comillas de repetición, "R" y "C. Ruiz". ¿Es otra versión de la misma copa (versión "R" de C. Ruiz)?
 31. Copa "G": ¿es la misma copa "G" que aparece como molde de la Copa Ani?
 32. Copa Terraza: tiene comillas (") donde iría la pierna. ¿Es pegada como la Cabernet de arriba?
 33. Copa Alma: dice "Pie" pero no dice cuál. ¿Qué pie lleva?
 34. Copa Vinarte: dice "P.Alta" y "P.Peg" a la vez. ¿Cómo es la pierna?
 35. Pie "Presi V.Tinto" (Vinarte): ¿entonces V.T = Vino Tinto y V.B = Vino Blanco? (pregunta 11)
 36. Sin pierna indicada: Premium Borgoña, Bordeau Agua, 2 Tiempo, Degustación. ¿Estirada o pegada?
-
-## Sobre clientes
-37. "G", "H", "M-H", "B" (Barón), "R" (Premium Borgoña) y "U" (Vidrio) están entre comillas pero parecen modelos, no clientes. Los dejé en el nombre de la pieza. ¿Está bien o alguno es cliente?
-38. "Requem. 8" (Copa Alaska) y "Chico" (Florero Lila) están en lápiz pero no parecen clientes. ¿Lo son?
