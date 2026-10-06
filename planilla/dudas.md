@@ -52,3 +52,11 @@
 
 ## Pendiente
 37. Pedir la lista de TODOS los clientes. Los nombres entre comillas o en lápiz a veces son clientes y a veces no.
+
+## Foto 8 (Vasos)
+38. Terrario, Globo x16, Globo x8 con Cuello, Botella Cairel y Globo Cairel están en la hoja de Vasos. ¿Van en VASOS o en otra categoría?
+39. Vaso Whisky: las comillas abarcan "A" y "Raye". ¿"A" es el modelo y "Raye" otro nombre? ¿La altura es 12,8?
+40. Terrario 10x8 y Globo x16: dicen c/c pero sin altura. ¿Cuánto es?
+41. Globo x8 con Cuello: ¿qué significa "A Placa"?
+42. "Calentar molde" (en lápiz): ¿es para la Botella Cairel, el Globo Cairel o los dos?
+43. "Rococo" aparece en el Globo Cairel y en el Base Velador Chico (Prensa). ¿Es el mismo nombre/cliente?

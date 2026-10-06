@@ -12,7 +12,8 @@ SALIDA = Path(__file__).with_name("planilla_piezas.xlsx")
 
 # Columnas de cada hoja. "P" = peso, "B" = B (como figura en el cuaderno).
 COLUMNAS = {
-    "VASOS": ["Nombre", "Nombre entre comillas", "Altura", "Peso (P)", "Base (B)"],
+    "VASOS": ["Nombre", "Nombre entre comillas", "Altura (c/c Alt)", "Peso (P)", "Base (B)", "Boca", "Molde",
+              "Notas"],
     "COPAS": ["Nombre", "Nombre entre comillas", "Pierna (estirada / pegada)", "Corte caliente c/c (altura)", "c/",
               "Peso (P)", "Base (B)", "Pie", "Pinza", "Molde", "Destino", "Nota en lápiz"],
     "FLORERO": ["Nombre", "Nombre entre comillas", "Capacidad", "Corte caliente c/c (altura)", "Otro corte", "Peso (P)", "Base (B)", "Nota en lápiz"],
@@ -31,6 +32,24 @@ EXTRA = ["Sección del cuaderno", "Foto Nº", "Observaciones"]
 
 # Filas por hoja, en el mismo orden que COLUMNAS[hoja] + EXTRA.
 DATOS = {
+    "VASOS": [
+        ["Vaso Splendid Vino", "Gastro Baires", "", 300, 300, "", "", "", "Vasos", 8, ""],
+        ["Vaso IPA Cerveza", "", "18,3", 380, 300, "", "", "", "Vasos", 8, ""],
+        ["Vaso IPA", "", "", 350, 280, "", "", "", "Vasos", 8, ""],
+        ["Vaso Whisky A", "A / Raye", "12,8", 480, 300, "", "", "", "Vasos", 8,
+         "Las comillas abarcan \"A\" y \"Raye\": ¿es \"A\" el modelo y \"Raye\" otro nombre? La altura puede ser 12,8"],
+        ["Vaso Nico R Vino", "R", "", 370, 300, "", "", "C. Ruiz", "Vasos", 8, ""],
+        ["Vaso Cerveza Bajo", "Diego", "15,3", 450, 250, "", "", "", "Vasos", 8, ""],
+        ["Vaso D-F 2", "", "16,7", 380, 300, "", "", "", "Vasos", 8, ""],
+        ["Terrario 10x8 con Asa", "", "c/c (sin altura)", 300, 200, "", "Andrea Borgoña", "", "Vasos", 8,
+         "Está en la hoja de Vasos. Dice c/c pero sin altura"],
+        ["Globo x16", "", "c/c (sin altura)", 700, 150, "8", "Globo x15", "", "Vasos", 8,
+         "Está en la hoja de Vasos. Dice c/c pero sin altura"],
+        ["Globo x8 con Cuello", "", "", 180, 300, "", "", "A Placa", "Vasos", 8, "Está en la hoja de Vasos"],
+        ["Botella Cairel", "", "", 280, 300, "", "", "Calentar molde", "Vasos", 8,
+         "Está en la hoja de Vasos. \"Calentar molde\" (en lápiz) está entre Botella y Globo Cairel: ¿para cuál es?"],
+        ["Globo Cairel", "Rococo", "", 250, 300, "", "", "", "Vasos", 8, "Está en la hoja de Vasos"],
+    ],
     "COPAS": [
         ["Copa Romina Vino", "", "Pegada", "15,3", "", 200, 230, "Lorena V.B", "", "", "", "", "Copas", 2, ""],
         ["Copa Presidente Champ", "", "", "", "", 180, 200, "", "", "", "", "Renato", "Copas", 2, ""],
