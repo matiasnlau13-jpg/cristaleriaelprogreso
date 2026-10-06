@@ -60,3 +60,11 @@
 41. Globo x8 con Cuello: ¿qué significa "A Placa"?
 42. "Calentar molde" (en lápiz): ¿es para la Botella Cairel, el Globo Cairel o los dos?
 43. "Rococo" aparece en el Globo Cairel y en el Base Velador Chico (Prensa). ¿Es el mismo nombre/cliente?
+
+## Foto 9 (Vasos)
+44. "F. Liso" (vasos 9x9, 8,5x8,5 y 7x7): ¿significa "fondo liso"?
+45. Vaso "Pipetua": ¿se escribe así?
+46. Vaso Bombe "Fondo Hueco" (en lápiz, debajo del Vaso Bombe): ¿cuánto pesa? La base tiene un número tachado y dice 300, ¿es 300?
+47. ¿El "Bombe Gigante" (foto 6, hoy en OTROS) es un vaso como el Vaso Bombe?
+48. Vaso Temple dice "Maxi" al final: ¿qué es?
+49. "T. Largo" (Vaso Recto T. Largo) y "B-R" (Vaso Cónico B-R): ¿qué significan?
