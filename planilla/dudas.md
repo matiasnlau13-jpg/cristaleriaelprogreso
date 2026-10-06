@@ -32,3 +32,11 @@
 21. Florero Mod 11: abajo dice `corte c/24cm "Cenatiempo"`. ¿Qué es ese corte de 24 cm y cómo se escribe "Cenatiempo"?
 22. Pamela x21 / x16 / x11 / x10: ¿el número es el diámetro (en cm)?
 23. Pamela x11: no tiene altura de corte caliente. ¿Está bien?
+
+## Foto 6 (Centros, tapas, botellones, jarra, aceitera; la hoja no tiene título)
+24. Bombe Gigante: no entra en ninguna categoría. ¿En cuál va? (hoy está en la pestaña OTROS)
+25. Botellón "Decantador Progreso" (en lápiz, debajo del Botellón Decanter): ¿es la misma pieza con otro nombre?
+26. Botellón Nahuel (en lápiz): ¿se sigue haciendo? ¿Los números están bien (P:1300 B:100)?
+27. Tapa Quesera 1/2 Esfera: dice c/c pero sin altura. ¿Cuánto es?
+28. Tapa M-13: el molde se lee "Also". ¿Cómo se escribe?
+29. Jarra Carafe: la base dice B:55 (muy baja comparada con el resto). ¿Es correcto? (Igual que el "B:55" del Tarro Claret.)

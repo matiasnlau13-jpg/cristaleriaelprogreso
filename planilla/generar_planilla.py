@@ -20,10 +20,11 @@ COLUMNAS = {
     "PAMELA": ["Nombre", "Nombre entre comillas", "Corte caliente c/c (altura)", "Peso (P)", "Base (B)"],
     "BOTELLON": ["Nombre", "Nombre entre comillas", "Corte caliente c/c (altura)", "Peso (P)", "Base (B)"],
     "TARRO": ["Nombre", "Nombre entre comillas", "Capacidad", "Corte caliente c/c (altura)", "Peso (P)", "Base (B)", "Nota en lápiz"],
-    "CENTRO": ["Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
-    "TAPA": ["Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
-    "JARRA": ["Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
-    "ACEITERA": ["Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
+    "CENTRO": ["Nombre", "Nombre entre comillas", "Corte caliente c/c (altura)", "Peso (P)", "Base (B)"],
+    "TAPA": ["Nombre", "Nombre entre comillas", "Corte caliente c/c (altura)", "Peso (P)", "Base (B)", "Molde"],
+    "JARRA": ["Nombre", "Nombre entre comillas", "Corte caliente c/c (altura)", "Peso (P)", "Base (B)"],
+    "ACEITERA": ["Nombre", "Nombre entre comillas", "Corte caliente c/c (altura)", "Peso (P)", "Base (B)"],
+    "OTROS": ["Nombre", "Nombre entre comillas", "Corte caliente c/c (altura)", "Peso (P)", "Base (B)"],
     "PRENSA": ["Tipo", "Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
 }
 EXTRA = ["Sección del cuaderno", "Foto Nº", "Observaciones"]
@@ -102,6 +103,31 @@ DATOS = {
         ["Botellón Neo", "", "", 300, 300, "Sin título", 5, ""],
         ["Botellón Inti Chico", "", "", 400, 200, "Sin título", 5, ""],
         ["Botellón Mini", "", "", 500, 250, "Sin título", 5, ""],
+        ["Botellón Decanter", "", "", 1300, 150, "Sin título", 6, ""],
+        ["Botellón Decantador Progreso", "", "", 1300, 150, "Sin título", 6,
+         "Escrito en lápiz debajo del Botellón Decanter. ¿Es la misma pieza con otro nombre?"],
+        ["Botellón Nahuel", "", "", 1300, 100, "Sin título", 6, "Escrito en lápiz"],
+    ],
+    "CENTRO": [
+        ["Centro Oreford Grande", "", "", 2800, 100, "Sin título", 6, ""],
+        ["Centro Porta Vela", "", "9,5", 1300, 100, "Sin título", 6, ""],
+    ],
+    "TAPA": [
+        ["Tapa Quesera 1/2 Esfera", "", "c/c (sin altura)", 1300, 120, "", "Sin título", 6,
+         "Dice c/c pero no tiene la altura"],
+        ["Tapa Quesera con Botón", "", "", 3000, 120, "", "Sin título", 6, ""],
+        ["Tapa 17x20", "", "20,0", 1200, 120, "", "Sin título", 6, ""],
+        ["Tapa 17x13", "", "13,0", 1200, 120, "", "Sin título", 6, ""],
+        ["Tapa M-13", "", "", 400, 250, "Also", "Sin título", 6, "Molde: se lee \"Also\". Confirmar"],
+    ],
+    "JARRA": [
+        ["Jarra Carafe con Pico y Asa", "", "16,0", 550, 55, "Sin título", 6, ""],
+    ],
+    "ACEITERA": [
+        ["Aceitera Cónico Chico con Pico", "", "", 400, 250, "Sin título", 6, ""],
+    ],
+    "OTROS": [
+        ["Bombe Gigante", "", "15,8", 700, 200, "Sin título", 6, "No entra en ninguna categoría. ¿Dónde va?"],
     ],
     "PRENSA": [
         ["Plato", "Plato Pizza", "", 300, 500, "Prensa", 1, ""],
