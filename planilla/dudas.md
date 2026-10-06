@@ -27,3 +27,8 @@
 18. Florero Lila "Chico" (en lápiz): ¿el otro Florero Lila (Diagonal) es el grande?
 19. Florero Lila "c/c Diagonal": ¿es corte caliente en diagonal? ¿Tiene altura?
 20. Florero 17x50 "2 cortes": ¿no lleva altura de corte caliente?
+
+## Foto 5 (Floreros, tulipas, pamelas, botellones; la hoja no tiene título)
+21. Florero Mod 11: abajo dice `corte c/24cm "Cenatiempo"`. ¿Qué es ese corte de 24 cm y cómo se escribe "Cenatiempo"?
+22. Pamela x21 / x16 / x11 / x10: ¿el número es el diámetro (en cm)?
+23. Pamela x11: no tiene altura de corte caliente. ¿Está bien?
