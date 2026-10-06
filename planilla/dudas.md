@@ -5,7 +5,7 @@
 2. "SINAC": ¿va con el Filtro Nº 4?
 3. "Rococo": ¿es solo del Base Velador Chico o también del Grande?
 4. Filtro Nº 4 (P:40 B:600) y Vidrio "U" (P:620 B:300) están en lápiz: confirmar números.
-5. Plato, Faro, Filtro, Base Velador, Lupa, Vidrio, Baliza: ¿en qué categoría van? (hoy están en OTROS)
+5. Plato, Faro, Filtro, Base Velador, Lupa, Vidrio, Baliza: ¿en qué categoría van? (hoy están en la pestaña PRENSA)
 
 ## Foto 2 (Copas)
 6. ¿Qué significa el número con "℅" (15,3 / 19,7 / 24 / 15)? ¿Capacidad, altura, diámetro?

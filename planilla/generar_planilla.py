@@ -24,16 +24,13 @@ COLUMNAS = {
     "TAPA": ["Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
     "JARRA": ["Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
     "ACEITERA": ["Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
-    "OTROS": ["Tipo", "Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
+    "PRENSA": ["Tipo", "Nombre", "Nombre entre comillas", "Peso (P)", "Base (B)"],
 }
 EXTRA = ["Sección del cuaderno", "Foto Nº", "Observaciones"]
 
 # Filas por hoja, en el mismo orden que COLUMNAS[hoja] + EXTRA.
 DATOS = {
     "COPAS": [
-        ["Copa Alaska", "", "", "", 320, 450, "", "Requem. 8", "Prensa", 1,
-         "Hay un \"300\" en lápiz debajo del B:450 (¿B corregido a 300?). ¿Qué es \"Requem. 8\"?"],
-        ["Copa Milk Shake", "", "", "", 570, 250, "", "", "Prensa", 1, ""],
         ["Copa Romina Vino", "", "Pegada", "15,3", 200, 230, "Lorena V.B", "", "Copas", 2, ""],
         ["Copa Presidente Champ", "", "", "", 180, 200, "", "Renato", "Copas", 2, ""],
         ["Copa Clarito Inés De los Santos", "", "", "", 200, 230, "Presi V.T", "", "Copas", 2, ""],
@@ -52,10 +49,13 @@ DATOS = {
         ["Copa Premium Chica", "", "", "", 220, 220, "Mod II Agua", "", "Copas", 2, ""],
         ["Copa Silvia Agua", "", "Pegada", "", 180, 220, "Silvia Agua", "Renato", "Copas", 2, ""],
     ],
-    "OTROS": [
+    "PRENSA": [
         ["Plato", "Plato Pizza", "", 300, 500, "Prensa", 1, ""],
+        ["Copa", "Copa Alaska", "", 320, 450, "Prensa", 1,
+         "En lápiz: \"Requem. 8\" y un \"300\" debajo del B:450 (¿B corregido a 300?)"],
         ["Faro", "Faro Puma", "", 130, 450, "Prensa", 1, ""],
         ["Faro", "Faro Ford", "", 452, 600, "Prensa", 1, ""],
+        ["Copa", "Copa Milk Shake", "", 570, 250, "Prensa", 1, ""],
         ["Filtro", "Filtro Nº 2", "", 245, 500, "Prensa", 1, ""],
         ["Filtro", "Filtro Nº 4", "SINAC", 40, 600, "Prensa", 1,
          "Escrito en lápiz; \"SINAC\" con flecha desde B:600"],
