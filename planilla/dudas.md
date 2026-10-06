@@ -40,3 +40,12 @@
 27. Tapa Quesera 1/2 Esfera: dice c/c pero sin altura. ¿Cuánto es?
 28. Tapa M-13: el molde se lee "Also". ¿Cómo se escribe?
 29. Jarra Carafe: la base dice B:55 (muy baja comparada con el resto). ¿Es correcto? (Igual que el "B:55" del Tarro Claret.)
+
+## Foto 7 (Copas)
+30. Copa Premium Borgoña: abajo hay un renglón con comillas de repetición, "R" y "C. Ruiz". ¿Es otra versión de la misma copa (versión "R" de C. Ruiz)?
+31. Copa "G": ¿es la misma copa "G" que aparece como molde de la Copa Ani?
+32. Copa Terraza: tiene comillas (") donde iría la pierna. ¿Es pegada como la Cabernet de arriba?
+33. Copa Alma: dice "Pie" pero no dice cuál. ¿Qué pie lleva?
+34. Copa Vinarte: dice "P.Alta" y "P.Peg" a la vez. ¿Cómo es la pierna?
+35. Pie "Presi V.Tinto" (Vinarte): ¿entonces V.T = Vino Tinto y V.B = Vino Blanco? (pregunta 11)
+36. Sin pierna indicada: Premium Borgoña, Bordeau Agua, 2 Tiempo, Degustación. ¿Estirada o pegada?
